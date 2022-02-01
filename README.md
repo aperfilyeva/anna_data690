@@ -4,13 +4,13 @@
 
 ### Ordered list
 
-1.Apple
-2.Orange
-3.Pear
+1. Apple
+2. Orange
+3. Pear
  
 ### Unordered List
 
- - **Python
+ -**Python
  - Tableau
  - Power BI
  
