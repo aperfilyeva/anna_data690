@@ -13,6 +13,8 @@
  -**Python**
  - Tableau
  - Power BI
+ - SQL
+ -
  
 
 
