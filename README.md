@@ -10,7 +10,7 @@
  
 ### Unordered List
 
- -**Python
+ -**Python**
  - Tableau
  - Power BI
  
