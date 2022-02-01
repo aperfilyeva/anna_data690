@@ -1,5 +1,5 @@
 
- <img src="headshot.jpg" width="180" height="240">
+ <img src="headshot.jpg" width="180" height="250">
 
 # Anna Perfilyeva
 
@@ -14,10 +14,10 @@ Experienced data analyst seeking to apply technical and problem solving skills i
 **MPS in Data Science (expected in 2024)**
 University of Maryland, Baltimore County (UMBC)
 
-**M.A. in Economic Policy Analysis**
+**MA in Economic Policy Analysis**
 University of Maryland, Baltimore County (UMBC)
 
-**B.S. in Economics**
+**BS in Economics**
 National University Kiev-Mohyla Academy, Ukraine
 
 ## Experience
