@@ -16,9 +16,10 @@
  - SQL
 
 *Note in Italics  - no space after star*
+
 **Bold text**
 
-![](Python.jpeg)
+![](Python.png)
  
 
 
