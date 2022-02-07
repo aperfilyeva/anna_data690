@@ -1,6 +1,6 @@
 # Repository for UMBC Data 690 Course
 
-## Level 2 Header
+## This is a repository for DS690 Course
 
 ### Ordered list
 
@@ -10,12 +10,15 @@
  
 ### Unordered List
 
- -**Python**
+ - **Python**
  - Tableau
  - Power BI
  - SQL
+
+*Note in Italics  - no space after star*
+**Bold text**
  
- 
+
 
 
 
