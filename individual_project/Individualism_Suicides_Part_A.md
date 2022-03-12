@@ -16,7 +16,7 @@ Lesotho, a country in Sub-Saharan Africa, has the largest suicide rate in the wo
 
 ## Correlation of Suicide Rates with Income and Health 
 
-Before we delve into cultural factors, it is worth understanding how suicides correlate with income, represented by GDP, and the general health status, represented in the data by life expectancy rates. We know that income is a powerful determinant of many social and health outcomes, with higher incomes typically correlating with better outcomes. We would therefore expect that suicides are generally higher in lower income countries. Fitting a simple linear regression model on GDP and suicides data does no quite support this hypothesis: in fact, there is a slight upward trend in suicides as the country income increases. The t-test value on the slope coefficient is not very significant, at 1.57.
+Before we delve into cultural factors, it is worth understanding how suicides correlate with income, represented by GDP, and the general health status, represented in the data by life expectancy rates. We know that income is a powerful determinant of many social and health outcomes; higher incomes typically correlate with better outcomes. We would therefore expect that suicides are generally higher in lower income countries. Fitting a simple linear regression model on GDP and suicides data does no quite support this hypothesis: in fact, there is a slight upward trend in suicides as the country income increases. The t-test value on the slope coefficient is relatively low, at 1.57, indicating that the positive correlation between suicide rates and a country's income is not statistically significant.
 
 ### Suicide Correlation with GDP
 ![](suicide_gdp.png)
